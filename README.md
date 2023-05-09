@@ -1,5 +1,4 @@
-# Aligning-contextual-vector-spaces
-Aligning contextual vector spaces between independent neural translation systems
+# Aligning contextual vector spaces between independent neural translation systems
 
 Abstract:
 Numerous pre-trained machine translation models are available for translating between
