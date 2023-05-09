@@ -1,0 +1,7 @@
+/data/
+/models/
+/generated/
+/transformers/
+/.ipynb_checkpoints
+/.idea/
+/results/
